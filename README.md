@@ -24,8 +24,12 @@ Comment Vélib' Métropole peut-il satisfaire ses clients. Comment varie son act
 
 ## Etape d'analyses
 
-### Etape 1 : Préparation du dataset (jupyter notebook)
-### Etape 2 : Recherche en open data la géolocalisation des gares en Île-de-France (https://data.iledefrance-mobilites.fr/explore/dataset/emplacement-des-gares-idf-data-generalisee/table/)
-### Etape 3 : Creation des KPI (jupyter notebook)
-### Etape 4 : Calcul d'une matrice de distance entre les gares et les différentes stations vélib (jupyter notebook)
-### Etape 5 : Analyses (Power BI) et recommandations stratégiques (pdf)
+Etape 1 : Préparation du dataset (jupyter notebook)
+
+Etape 2 : Recherche en open data la géolocalisation des gares en Île-de-France (https://data.iledefrance-mobilites.fr/explore/dataset/emplacement-des-gares-idf-data-generalisee/table/)
+
+Etape 3 : Creation des KPI (jupyter notebook)
+
+Etape 4 : Calcul d'une matrice de distance entre les gares et les différentes stations vélib (jupyter notebook)
+
+Etape 5 : Analyses (Power BI) et recommandations stratégiques (pdf)
